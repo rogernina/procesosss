@@ -1,5 +1,6 @@
 esto a sido subido viaaaaaa atomaticossss procesos
  sdasdasdasdsadasdasd
+<<<<<<< HEAD
 miuhughyiogoiuuasd-asdhsajkldhwfdkseabte es un segundo comiiti de 
 ahdjaskhdjksahdsjkahdsjakhdskahjda
 hola
@@ -7,3 +8,15 @@ hola
   hola señores
    hola señores 
    :
+=======
+>>>>>>> dd711b1053406cc44c70d0147bd09c689ee93f05
+
+
+ahdjaskhdjksahdsjkahdsjakhdskahjda
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjdaasd
+ahdjaskhdjksahdsjkahdsjakhdskahjda;::
